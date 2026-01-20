@@ -24,6 +24,9 @@ function App() {
             <li>
               <a href="#" className="block py-2 px-4 rounded hover:bg-indigo-800 transition">Settings</a>
             </li>
+              <li>
+              <a href="#" className="block py-2 px-4 rounded hover:bg-indigo-800 transition">user Profile</a>
+            </li>
           </ul>
         </nav>
       </aside>
