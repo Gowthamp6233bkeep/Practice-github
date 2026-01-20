@@ -29,6 +29,9 @@ function App() {
             </li>
           </ul>
         </nav>
+
+
+        <h1>Header page</h1>
       </aside>
 
       <main className="flex-1 p-8">
